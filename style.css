@@ -1,0 +1,115 @@
+body {
+	font-family:Verdana,Geneva,Arial,Helvetica,sans-serif;
+	font-size:13px;
+	line-height:125%;
+	margin: 0px;
+	height: 100%;
+	text-align:left;
+	width:100%;
+	text-align: center;
+}
+
+#container {
+	padding: 50px 0px 0px 0px;
+	margin: 0 auto;
+	width: 850px;
+	text-align: left;
+}
+
+#containerCV {
+	padding: 2px 0px 0px 0px;
+	margin: 0 auto;
+	width: 990px;
+	text-align: left;
+}
+
+
+#address {
+    background: #FFFFE0;
+    padding: 10px 0px 10px 15px;
+	color: #666666;
+	font-size: 13px;
+}
+
+.content {
+	line-height:170%;
+	font-size:14px;
+	text-align: justify;
+}
+
+.content2 {
+	line-height:200%;
+	font-size:14px;
+	text-align: justify;
+}
+
+.name {
+	color: black;
+	font-size: 22px;
+}
+
+.subtit {
+	color: black;
+	font-size: 19px;
+}
+
+.smtit {
+	color: black;
+	font-size: 16px;
+}
+
+#interest {
+	color: black;
+	font-size: 13px;
+	line-height:155%;
+}
+
+#projects {
+	margin: 0px 0px 0px 0px;
+}
+.project {
+	margin: 22px 0px 12px 0px;
+}
+
+.break {
+page-break-after: always;
+}
+
+.pubTable {
+	
+}
+
+.pubTable tr {
+	height: 15px;
+}
+
+
+.projectTitle {
+	margin: 0px 0px 3px 0px;
+	padding :0px 0px 0px 0px;
+	font-size: 15px;
+}
+
+.pubyear {
+	font-weight: normal;
+	font-size: 17px;
+}
+.emptyBig {
+	height: 20px;
+	
+}
+.emptySmall{
+	height: 5px;
+	
+}
+
+a {
+	color: blue;
+}
+.comment{
+	color: #666666;
+	font-style: italic;
+	font-size: 13px;
+}
+
+
